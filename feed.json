@@ -1,20 +1,25 @@
 {
-  "version": "0.3.3",
+  "version": "0.3.4",
   "platforms": {
     "osx-arm64": {
-      "path": "nergora-service-osx-arm64-0.3.3.zip",
-      "sha256": "b8d68ce329d034869fd22b4428613f8d4bf439295cff25793aecfeb6a39539a2",
-      "size": 42840514
+      "path": "nergora-service-osx-arm64-0.3.4.zip",
+      "sha256": "f364d84827c28bd61a2f77b03c201645ec1453598485559f8595178f107cedcd",
+      "size": 42840549
     },
     "osx-x64": {
-      "path": "nergora-service-osx-x64-0.3.3.zip",
-      "sha256": "43107110bd967e36cc50b35c342c0ac6a5cb9374c07973566a41ffb9fad260cc",
-      "size": 50595229
+      "path": "nergora-service-osx-x64-0.3.4.zip",
+      "sha256": "fce0732f3588d60d0eb1ce8593d967563e870db1db50fd3bef7c8690984474c9",
+      "size": 50595279
     },
     "win-x64": {
-      "path": "nergora-service-win-x64-0.3.3.zip",
-      "sha256": "9d6ee21df1cf0948214895055ada5ea1047df5da5be06986785cb0a3ccc4295a",
-      "size": 51800456
+      "path": "nergora-service-win-x64-0.3.4.zip",
+      "sha256": "e79ba6a591aeeb322b9231628ff73ea95588ff7b2bc3940146c363b78c571406",
+      "size": 51800499
+    },
+    "linux-x64": {
+      "path": "nergora-service-linux-x64-0.3.4.zip",
+      "sha256": "21298a64680dd267baabb4cecd90a84e8433e069b80ccbcc0c9d63982ffc48ca",
+      "size": 51569243
     }
   }
 }
