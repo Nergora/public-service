@@ -1,0 +1,20 @@
+{
+  "version": "0.3.3",
+  "platforms": {
+    "osx-arm64": {
+      "path": "nergora-service-osx-arm64-0.3.3.zip",
+      "sha256": "b8d68ce329d034869fd22b4428613f8d4bf439295cff25793aecfeb6a39539a2",
+      "size": 42840514
+    },
+    "osx-x64": {
+      "path": "nergora-service-osx-x64-0.3.3.zip",
+      "sha256": "43107110bd967e36cc50b35c342c0ac6a5cb9374c07973566a41ffb9fad260cc",
+      "size": 50595229
+    },
+    "win-x64": {
+      "path": "nergora-service-win-x64-0.3.3.zip",
+      "sha256": "9d6ee21df1cf0948214895055ada5ea1047df5da5be06986785cb0a3ccc4295a",
+      "size": 51800456
+    }
+  }
+}
